@@ -1,1 +1,1 @@
-.
+El gráfico muestra la distribución por género de los usuarios frecuentes que realizaron más de 15 viajes durante el período de julio a septiembre de 2024. Se observa que la mayoría de los usuarios frecuentes son hombres (MALE), con aproximadamente 145 individuos registrados. Las mujeres (FEMALE) representan un grupo menor, con alrededor de 75 usuarias frecuentes. Finalmente, existe un grupo muy reducido etiquetado como OTHER, con solo 3 usuarios.
